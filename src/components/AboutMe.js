@@ -12,7 +12,7 @@ export const AboutMe = () => {
         <Row>
           <Col>
             <h2>About Me</h2>
-            <p>My name is Deniz YILDIZ. I was born in Ankara on December 1st, 2000. I am currently living in Antalya since 2004. Besides coding, I really love playing video games,dancing and everything about music. Also, I am studying for Computer Engineering in Alanya Alaaddin Keykubat University. I am always trying to learn new things and improve myself about coding. Especially I am much more curious about game industry so of course my goal is to work in a game company when I graduated. </p>
+            <p>My name is Deniz YILDIZ. I was born in Ankara on December 1st, 2000. I am currently living in Antalya since 2004. Besides coding, I really love playing video games,dancing and everything about music. Also, I studied Computer Engineering for two years in Alanya Alaaddin Keykubat University. After that I transferred to Süleyman Demirel University which I am planning to finish my department here in this university. I am always trying to learn new things and improve myself about coding. Especially I am much more curious about game industry so of course my goal is to work in a game company when I graduated. </p>
           </Col>
         </Row>
       </Container>
